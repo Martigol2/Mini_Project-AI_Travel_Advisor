@@ -187,4 +187,4 @@ By combining prompt engineering, conversation memory, and the OpenAI API, the ch
 
 ![AI Travel Advisor](./travel_advisor_demo.png)
 
-*Figure 1. Conversation with the AI Travel Advisor showing the personalized itinerary generation.*
+*Figure 1. Conversation with the AI Travel Advisor showing the personalized itinerary generation.*cl
